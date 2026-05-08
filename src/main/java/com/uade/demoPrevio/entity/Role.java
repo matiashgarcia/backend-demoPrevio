@@ -22,7 +22,7 @@ public class Role {
     @Enumerated(EnumType.STRING)
     private RoleType roleType;
 
-    @OneToMany(mappedBy = "role")
-    private List<User> users;
+/*     @OneToMany(mappedBy = "role")
+    private List<User> users; */
 
 }
