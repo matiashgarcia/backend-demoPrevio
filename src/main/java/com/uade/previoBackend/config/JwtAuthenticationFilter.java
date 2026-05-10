@@ -1,4 +1,4 @@
-package com.uade.demoPrevio.config;
+package com.uade.previoBackend.config;
 
 import java.io.IOException;
 
@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
 
-import com.uade.demoPrevio.service.JwtService;
+import com.uade.previoBackend.service.JwtService;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

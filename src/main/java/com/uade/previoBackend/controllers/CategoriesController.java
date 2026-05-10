@@ -1,10 +1,10 @@
-package com.uade.demoPrevio.controllers;
+package com.uade.previoBackend.controllers;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.uade.demoPrevio.entity.Category;
-import com.uade.demoPrevio.service.CategoriesService;
+import com.uade.previoBackend.entity.Category;
+import com.uade.previoBackend.service.CategoriesService;
 
 import java.util.List;
 import java.util.Optional;

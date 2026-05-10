@@ -1,8 +1,8 @@
-package com.uade.demoPrevio.entity;
+package com.uade.previoBackend.entity;
 
 import java.util.List;
 
-import com.uade.demoPrevio.enums.RoleType;
+import com.uade.previoBackend.enums.RoleType;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

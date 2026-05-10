@@ -1,4 +1,4 @@
-package com.uade.demoPrevio.enums;
+package com.uade.previoBackend.enums;
 
 public enum RoleType {
     BUYER,

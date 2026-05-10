@@ -1,4 +1,4 @@
-package com.uade.demoPrevio.service;
+package com.uade.previoBackend.service;
 
 import java.util.Date;
 

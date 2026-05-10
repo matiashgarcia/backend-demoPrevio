@@ -1,13 +1,13 @@
-package com.uade.demoPrevio;
+package com.uade.previoBackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoPrevioApplication {
+public class PrevioBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoPrevioApplication.class, args);
+		SpringApplication.run(PrevioBackendApplication.class, args);
 	}
 
 }

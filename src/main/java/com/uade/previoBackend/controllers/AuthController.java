@@ -1,4 +1,4 @@
-package com.uade.demoPrevio.controllers;
+package com.uade.previoBackend.controllers;
 
 import java.util.Optional;
 
@@ -6,10 +6,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.uade.demoPrevio.dto.LoginRequest;
-import com.uade.demoPrevio.entity.User;
-import com.uade.demoPrevio.repository.UserRepository;
-import com.uade.demoPrevio.service.JwtService;
+import com.uade.previoBackend.dto.LoginRequest;
+import com.uade.previoBackend.entity.User;
+import com.uade.previoBackend.repository.UserRepository;
+import com.uade.previoBackend.service.JwtService;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

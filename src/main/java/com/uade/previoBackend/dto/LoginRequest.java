@@ -1,4 +1,4 @@
-package com.uade.demoPrevio.dto;
+package com.uade.previoBackend.dto;
 
 import lombok.Data;
 

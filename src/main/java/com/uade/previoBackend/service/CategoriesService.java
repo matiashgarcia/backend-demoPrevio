@@ -1,9 +1,9 @@
-package com.uade.demoPrevio.service;
+package com.uade.previoBackend.service;
 
 import java.util.List;
 import java.util.Optional;
 
-import com.uade.demoPrevio.entity.Category;
+import com.uade.previoBackend.entity.Category;
 
 public interface CategoriesService {
 

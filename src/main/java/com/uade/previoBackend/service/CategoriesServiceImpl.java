@@ -1,4 +1,4 @@
-package com.uade.demoPrevio.service;
+package com.uade.previoBackend.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,9 +6,9 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.uade.demoPrevio.entity.Category;
-import com.uade.demoPrevio.exceptions.CategoryDuplicateException;
-import com.uade.demoPrevio.repository.CategoriesRepository;
+import com.uade.previoBackend.entity.Category;
+import com.uade.previoBackend.exceptions.CategoryDuplicateException;
+import com.uade.previoBackend.repository.CategoriesRepository;
 
 @Service
 public class CategoriesServiceImpl implements CategoriesService {

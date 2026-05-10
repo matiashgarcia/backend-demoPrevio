@@ -1,10 +1,10 @@
-package com.uade.demoPrevio;
+package com.uade.previoBackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoPrevioApplicationTests {
+class PrevioBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

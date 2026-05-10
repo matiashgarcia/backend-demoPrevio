@@ -1,4 +1,4 @@
-package com.uade.demoPrevio.entity;
+package com.uade.previoBackend.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

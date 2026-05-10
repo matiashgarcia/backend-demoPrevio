@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.uade</groupId>
-	<artifactId>demoPrevio</artifactId>
+	<artifactId>previoBackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demoPrevio</name>
+	<name>previoBackend</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
